@@ -97,7 +97,7 @@ public class SimpleCalculatorProject extends Application {
 
         btnPercentage.getStyleClass().add("operator-btn");
 
-        /// useless text gfjnff
+        /// useless
 
         btnDivide = new Button("/"); ; // this will display "/" on the button
         btnDivide.setPrefSize(60,60); // this will set the length to 60 and breadth to 60
@@ -105,7 +105,7 @@ public class SimpleCalculatorProject extends Application {
         btnDivide.getStyleClass().add("operator-btn");
 
         btnModulus = new Button("mod"); // this will display "mod" on the button
-        btnModulus.setPrefSize(60,60); // this will set the length to 60 and breadth to 60
+        btnModulus.setPrefSize(60,60); // this will set the length to 60 and breadth to 60gut
         btnModulus.setFont(fontSm);
         btnModulus.getStyleClass().add("operator-btn");
 
