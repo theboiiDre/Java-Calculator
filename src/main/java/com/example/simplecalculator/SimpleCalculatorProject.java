@@ -95,9 +95,6 @@ public class SimpleCalculatorProject extends Application {
         btnPercentage.setPrefSize(60,60); // this will set the length to 60 and breadth to 60
         btnPercentage.setFont(fontNm);
 
-
-        //random gffhfgfh
-
         btnPercentage.getStyleClass().add("operator-btn");
 
         btnDivide = new Button("/"); ; // this will display "/" on the button
