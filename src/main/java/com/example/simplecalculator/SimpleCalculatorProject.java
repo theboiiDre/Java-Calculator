@@ -97,6 +97,8 @@ public class SimpleCalculatorProject extends Application {
 
         btnPercentage.getStyleClass().add("operator-btn");
 
+        ///new text balbal
+
         btnDivide = new Button("/"); ; // this will display "/" on the button
         btnDivide.setPrefSize(60,60); // this will set the length to 60 and breadth to 60
         btnDivide.setFont(fontNm);
